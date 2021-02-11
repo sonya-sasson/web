@@ -1,0 +1,19 @@
+body {
+	background-color: azure;
+	}
+	
+p {
+	background-color: azure;
+	color: darkslategrey;
+	font-family: Georgia, serif;
+	font-size: 20 px;
+	}
+
+img {
+	border-color: darkturquoise lightblue lightcyan transparent;
+}
+
+h1 {
+	font: small-caps bold 24px/1 sans-serif;
+	color: darkslategrey;
+}
