@@ -10,7 +10,7 @@ p {
 	}
 
 img {
-	border: 5px solid darkturquoise lightblue lightcyan transparent;
+	border: thick double cadetblue;
 }
 
 h1 {
@@ -23,10 +23,14 @@ h2 {
 	color: maroon;
 }
 
-ul {font: small-caps bold 24px/1 sans-serif;
+ul {background-color: azure;
 	color: darkslategrey;
+	font-family: Georgia, serif;
+	font-size: 20 px;
 }
 
-li {font: small-caps bold 24px/1 sans-serif;
+li {background-color: azure;
 	color: darkslategrey;
+	font-family: Georgia, serif;
+	font-size: 20 px;
 }
