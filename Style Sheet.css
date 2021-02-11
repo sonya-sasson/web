@@ -10,11 +10,12 @@ p {
 	}
 
 img {
+	height: 100px;
 	border: 10mm double cadetblue;
 }
 
 h1 {
-	font: small-caps bold 24px/1 sans-serif;
+	font: small-caps bold 40px/1 sans-serif;
 	color: darkslategrey;
 }
 
