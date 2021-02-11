@@ -19,14 +19,19 @@ h1 {
 }
 
 h2 {
-	font: small-caps bold 24px/1 sans-serif;
+	font: small-caps bold 20px/1 sans-serif;
 	color: maroon;
+}
+
+h3 {
+	font: small-caps bold 16px/1 sans-serif;
+	color: lightslategrey;
 }
 
 ul {background-color: azure;
 	color: darkslategrey;
 	font-family: Georgia, serif;
-	font-size: 20 px;
+	font-size: 22 px;
 }
 
 li {background-color: azure;
