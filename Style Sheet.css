@@ -10,10 +10,19 @@ p {
 	}
 
 img {
-	border-color: darkturquoise lightblue lightcyan transparent;
+	border: 5px solid darkturquoise lightblue lightcyan transparent;
 }
 
 h1 {
 	font: small-caps bold 24px/1 sans-serif;
+	color: darkslategrey;
+}
+
+h2 {
+	font: small-caps bold 24px/1 sans-serif;
+	color: maroon;
+}
+
+ul {font: small-caps bold 24px/1 sans-serif;
 	color: darkslategrey;
 }
