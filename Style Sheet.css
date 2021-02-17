@@ -42,17 +42,17 @@ li {background-color: azure;
 }
 
 .topnav {
-  background-color: darkccyan;
+  background-color: darkcyan;
   overflow: hidden;
 }
 
 .topnav a {
   float: right;
-  color: #white;
+  color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 6px 6px;
   text-decoration: none;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .topnav a:hover {
