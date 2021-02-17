@@ -10,8 +10,8 @@ p {
 	}
 
 img {
-	height: 300px;
-	border: 10mm double cadetblue;
+	height: 200px;
+	border: 7mm double cadetblue;
 }
 
 h1 {
@@ -42,7 +42,7 @@ li {background-color: azure;
 }
 
 .topnav {
-  background-color: darkcyan;
+  background-color: lightcoral;
   overflow: hidden;
 }
 
