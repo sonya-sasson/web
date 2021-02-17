@@ -36,12 +36,14 @@ ul {background-color: azure;
 	color: darkslategrey;
 	font-family: Georgia, serif;
 	font-size: 22 px;
+	padding: 2px 2px;
 }
 
 li {background-color: azure;
 	color: darkslategrey;
 	font-family: Georgia, serif;
 	font-size: 20 px;
+	padding: 2px 2px;
 }
 
 .topnav {
