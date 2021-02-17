@@ -30,6 +30,7 @@ h2 {
 h3 {
 	font: small-caps bold 16px/1 sans-serif;
 	color: lightslategrey;
+	padding: 2px 2px;
 }
 
 ul {background-color: azure;
