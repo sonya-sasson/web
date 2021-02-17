@@ -64,3 +64,9 @@ li {background-color: azure;
   background-color: lightblue;
   color: white;
 }
+
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
