@@ -31,20 +31,23 @@ h3 {
 	font: small-caps bold 24px/1 sans-serif;
 	color: lightslategrey;
 	padding: 2px 2px;
+	margin: 2px;
 }
 
 ul {background-color: azure;
 	color: darkslategrey;
 	font-family: Georgia, serif;
 	font-size: 22 px;
-	padding: 2px 2px;
+	padding: 4px 4px;
+	margin: 2px;
 }
 
 li {background-color: azure;
 	color: darkslategrey;
 	font-family: Georgia, serif;
 	font-size: 20 px;
-	padding: 2px 2px;
+	padding: 4px 4px;
+	margin: 2px;
 }
 
 .topnav {
