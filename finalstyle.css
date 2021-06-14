@@ -1,0 +1,90 @@
+body {
+	background-color: #1e847f;
+	padding: 15px;
+	}
+	
+p {
+	background-color: #1e847f;
+	color: #e6e6e6;
+	font-family: Georgia, serif;
+	font-size: 30 px;
+	padding: 20px 20px;
+	line-height: 125%;
+	}
+
+a{
+	color:#6495ED;	
+	}
+
+img {
+	height: 300px;
+	border: 2mm #ecc19c solid;
+}
+
+h1 {
+	font: small-caps bold 40px/1 sans-serif;
+	color: #ecc19c;
+}
+
+h2 {
+	font: small-caps bold 35px/2 sans-serif;
+	color: #e6e6e6;
+	
+}
+
+
+ul {background-color: #1e847f;
+	color: #ecc19c;
+	font-family: Georgia, serif;
+	font-size: 22 px;
+	padding: 4px 4px;
+	margin: 10px;
+}
+
+li {background-color: #1e847f;
+	color: #e6e6e6;
+	font-family: Georgia, serif;
+	font-size: 20 px;
+	padding: 4px 4px;
+	margin: 10px;
+}
+
+.topnav {
+  background-color: #1e847f;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: #ecc19c;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font: small-caps bold 20px/1 sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ecc19c;
+  color: #e6e6e6;
+}
+
+.topnav a.active {
+ background-color: #ecc19c;
+  color: #e6e6e6;
+}
+
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+
+.flexcontainer {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 320px) {
+  .flexcontainer {
+    display: block;
+  }
+}
